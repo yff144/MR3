@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.jplanets.logging:jplanets-logging:2.2">
+    <CLASSES>
+      <root url="jar://D:/maven/classRepository/de/jplanets/logging/jplanets-logging/2.2/jplanets-logging-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/classRepository/de/jplanets/logging/jplanets-logging/2.2/jplanets-logging-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/classRepository/de/jplanets/logging/jplanets-logging/2.2/jplanets-logging-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

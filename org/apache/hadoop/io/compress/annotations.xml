@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.hadoop.io.compress.GzipCodec'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

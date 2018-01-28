@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../for0123/for0123.iml" filepath="$PROJECT_DIR$/../for0123/for0123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formapreduceText/formapreduceText.iml" filepath="$PROJECT_DIR$/../formapreduceText/formapreduceText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fortext/fortext.iml" filepath="$PROJECT_DIR$/../fortext/fortext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs.iml" filepath="$PROJECT_DIR$/hdfs.iml" />
+    </modules>
+  </component>
+</project>
