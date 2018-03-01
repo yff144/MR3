@@ -74,6 +74,6 @@ public class TestHdfs {
         //testHdfs.forff();
         //testHdfs.forrename();
         testHdfs.fordelete();
-//
+////
     }
 }
