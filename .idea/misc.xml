@@ -7,7 +7,13 @@
         <option value="$PROJECT_DIR$/../formapreduceText/pom.xml" />
         <option value="$PROJECT_DIR$/../fortext/pom.xml" />
         <option value="$PROJECT_DIR$/../for0123/pom.xml" />
+        <option value="$PROJECT_DIR$/../homefuxi/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../fuxi/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">

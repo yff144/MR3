@@ -6,17 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="for0123" />
         <module name="formapreduceText" />
         <module name="fortext" />
-        <module name="hdfs" />
+        <module name="homefuxi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="for0123" target="1.7" />
       <module name="formapreduceText" target="1.5" />
       <module name="fortext" target="1.5" />
+      <module name="fuxi" target="1.7" />
       <module name="hdfs" target="1.5" />
+      <module name="homefuxi" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../formapreduceText/formapreduceText.iml" filepath="$PROJECT_DIR$/../formapreduceText/formapreduceText.iml" />
       <module fileurl="file://$PROJECT_DIR$/../fortext/fortext.iml" filepath="$PROJECT_DIR$/../fortext/fortext.iml" />
       <module fileurl="file://$PROJECT_DIR$/hdfs.iml" filepath="$PROJECT_DIR$/hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homefuxi/homefuxi.iml" filepath="$PROJECT_DIR$/../homefuxi/homefuxi.iml" />
     </modules>
   </component>
 </project>
